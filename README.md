@@ -1,1 +1,2 @@
-Basic chat + whiteboard using websockets.
+Простой чат. Реализован через web socketы
+Скопируйте все файлы, запускайте через node.js все должно заработать
